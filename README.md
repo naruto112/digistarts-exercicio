@@ -1,4 +1,4 @@
-Execicio do teste vaga de desenvolvimento [Criado em ecmascript 6](https://github.com/naruto112).
+Exercício do teste vaga de desenvolvimento [Criado em ecmascript 6](https://github.com/naruto112).
 
 ## Exercício 1
 
